@@ -1,5 +1,7 @@
 # 🎬 Netflix Clone
 
+
+
 **Netflix Clone**, popüler video yayın platformu Netflix'in arayüzünü taklit eden modern ve duyarlı bir web uygulamasıdır. Bu proje, kullanıcıların film ve dizi içeriklerini göz atabileceği, afişleri görebileceği ve arayüz deneyimini yaşayabileceği bir ön yüz uygulamasıdır.
 
 ---
